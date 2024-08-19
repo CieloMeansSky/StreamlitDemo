@@ -1,0 +1,49 @@
+﻿Model,Status,City,Country,Firmware Version
+ACS8000,online,San Diego,USA,6.24
+ACS8000,online,San Diego,USA,6.24
+ACS8000,online,San Diego,USA,6.24
+ACS8000,online,San Diego,USA,6.24
+ACS8000,online,San Diego,USA,6.24
+ACS8000,online,San Diego,USA,6.24
+ACS8080,online,San Diego,USA,6.24
+ACS8080,online,San Diego,USA,6.24
+ACS8080,online,San Diego,USA,6.24
+ACS8080,online,San Diego,USA,6.24
+ACS8080,online,San Diego,USA,6.24
+ACS8080,online,San Diego,USA,6.24
+ACS8080,online,San Diego,USA,6.24
+ACS8080,online,San Diego,USA,6.24
+ACS8080,online,Las Vegas,USA,5.35
+ACS8080,online,Las Vegas,USA,5.35
+ACS8080,online,Las Vegas,USA,5.35
+ACS8080,offline,Las Vegas,USA,5.35
+ACS8080,online,Las Vegas,USA,5.35
+ACS6000,online,Las Vegas,USA,5.35
+ACS6000,online,Las Vegas,USA,5.35
+ACS6000,online,Las Vegas,USA,5.35
+ACS6000,online,Las Vegas,USA,5.35
+ACS6000,online,Austin,USA,5.35
+ACS6000,online,New Jersey,USA,6.24
+ACS6000,offline,Boulder,USA,7.3
+ACS6000,offline,Raleigh,USA,3.4
+ACS6000,offline,Tokyo,Japan,5.9
+ACS6000,online,Seoul,South Korea,6
+ACS6000,online,Hyderabad,India,4.5
+ACS6000,online,Hyderabad,India,6.3
+ACS6000,offline,Bangalore,India,6.24
+ACS6000,online,Bangalore,India,3.4
+ACS6000,online,Mumbai,India,2.8
+ACS6000,online,Cork,Ireland,5.8
+ACS6000,online,Munich,Germany,4.5
+ACS6040,online,Paris,France,6.7
+ACS6040,offline,Sydney,Australia,3.5
+ACS6040,offline,Manila,Philippines,6.24
+ACS6040,offline,Bangalore,India,5.3
+ACS6040,offline,Bangalore,India,5.2
+ACS6040,online,Bangalore,India,6.24
+ACS6040,online,Bangalore,India,5.1
+ACS6040,online,Bangalore,India,4.1
+ACS6040,online,Bangalore,India,4.6
+ACS6040,online,Bangalore,India,7.8
+ACS6040,online,Beijing,China,6.7
+ACS6040,online,Taipei ,Taiwan,6.1
